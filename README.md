@@ -104,6 +104,7 @@ Maintained by [Appalize](https://www.appalize.com?utm_source=github&utm_medium=a
 - [SplitMetrics](https://splitmetrics.com/) — Apple Search Ads management and A/B testing platform.
 - [The Tool](https://thetool.io/) — ASO tool focused on keyword tracking and competitor analysis.
 - [AppFollow](https://appfollow.io/) — Review management and ASO monitoring platform.
+- [GetAppNiche](https://getappniche.com/) — iOS App Store intelligence with revenue estimates, ASO keywords, competitor ads, review monitoring, and API access.
 - [Gummicube](https://www.gummicube.com/) — Enterprise ASO services and technology.
 
 ### Keyword Research Tools
