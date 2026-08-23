@@ -355,6 +355,7 @@ Maintained by [Appalize](https://www.appalize.com?utm_source=github&utm_medium=a
 - [RevenueCat Blog](https://www.revenuecat.com/blog/) — Subscription economics and growth.
 - [Business of Apps](https://www.businessofapps.com/) — Mobile app industry news and analysis.
 - [Mobile Dev Memo](https://mobiledevmemo.com/) — Mobile marketing analysis by Eric Seufert.
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) — English weekly on iOS/indie App Store fees, ASO, and storefront ops. Free sample + RSS; paid archive. [RSS](https://fortune-insight.onrender.com/shop/brief/feed.xml) · [Issue 1](https://fortune-insight.onrender.com/shop/brief/issue-001-en.html).
 
 ---
 
