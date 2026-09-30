@@ -175,6 +175,8 @@ Maintained by [Appalize](https://www.appalize.com?utm_source=github&utm_medium=a
 - [Localized App Store Creatives: Cultural Adaptation Guide](https://www.appalize.com/blog/localized-app-store-creatives-cultural-adaptation?utm_source=github&utm_medium=awesome-aso) — Adapt screenshots for different markets and cultures.
 - [App Store Feature Graphic Design (Google Play)](https://www.appalize.com/blog/app-store-feature-graphic-design-google-play?utm_source=github&utm_medium=awesome-aso) — Google Play feature graphic design guide.
 
+- [Shotlingo App Store Screenshot Sizes](https://shotlingo.com/tools/app-store-screenshot-sizes) - Free lookup of every required App Store and Google Play screenshot size, with JSON/CSV export.
+
 ### App Icons
 
 - [App Icon Design Guide: Sizes, Best Practices & Examples](https://www.appalize.com/blog/app-icon-design-guide-higher-conversions?utm_source=github&utm_medium=awesome-aso) — Design app icons that stand out and drive taps.
