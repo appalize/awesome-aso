@@ -226,6 +226,7 @@ Maintained by [Appalize](https://www.appalize.com?utm_source=github&utm_medium=a
 - [App Localization: Global Markets & ASO Guide](https://www.appalize.com/blog/app-localization-global-markets-aso?utm_source=github&utm_medium=awesome-aso) — Expand to international markets with proper ASO localization.
 - [Localized App Store Creatives: Cultural Adaptation Guide](https://www.appalize.com/blog/localized-app-store-creatives-cultural-adaptation?utm_source=github&utm_medium=awesome-aso) — Culturally adapt your visuals for each market.
 - [Appalize Localization Helper](https://www.appalize.com?utm_source=github&utm_medium=awesome-aso) — AI-powered localization for 40+ languages with App Store Connect sync.
+- [App Store Localizer](https://asolocalization.com) — Indie-focused listing localization: import any public App Store URL, translate metadata plus screenshot captions for 20+ locales, one-time pricing.
 
 ---
 
